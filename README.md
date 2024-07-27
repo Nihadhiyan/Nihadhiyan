@@ -1,15 +1,25 @@
-# 🏄‍♂️ Mohamed Nihadh
+# 👨‍💻 Mohamed Nihadh
 
 **`Digital Architect (Developer/Designer)`**
 
 B.Sc Software Engineering Honors | Emerging Talent in E-commerce Solutions & Custom Web Development
 
+---
+
+### 📫 Accounts
+
 <p align="left">
-    <a href="https://web.facebook.com/profile.php?id=100012347800590">
-        <img alt="Facebook friends" title="Follow me on Facebook" src="https://custom-icon-badges.demolab.com/badge/-Friends%20%3A%203.4k-blue?style=for-the-badge&logo=facebook&logoColor=white"/>
+    <a href="mailto:nihath854@gmail.com">
+        <img alt="Gmail" title="Email me" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
     </a>
-    <a href="https://github.com/Nihadhiyan?tab=followers">
-        <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Nihadhiyan?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+    <a href="https://linkedin.com/in/Nihadhiyan">
+        <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+    </a>
+    <a href="https://discord.com/channels/@me">
+        <img alt="Discord" title="Join me on Discord" src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+    </a>
+    <a href="https://medium.com/@Nihadhiyan">
+        <img alt="Medium" title="Read my articles on Medium" src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" />
     </a>
 </p>
 
@@ -30,6 +40,12 @@ B.Sc Software Engineering Honors | Emerging Talent in E-commerce Solutions & Cus
 
 ---
 
+<div align="center">
+    <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600" height="300" alt="Coding GIF"/>
+</div>
+
+---
+
 ### 📊 Stats
 
 <div align="center">
@@ -39,12 +55,8 @@ B.Sc Software Engineering Honors | Emerging Talent in E-commerce Solutions & Cus
 
 ---
 
-### 🌟 Highlights
 
-![Coding](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)
 
-<!--
-<details>
- <summary><h3>👨‍💻 Nihadh's Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
--->
+
+
+
