@@ -2,7 +2,7 @@
 
 **`Digital Architect (Developer/Designer)`**
 
-B.Sc Software Engineering Honors | Emerging Talent in E-commerce Solutions & Custom Web Development
+B.Sc (Hons) Software Engineering | Emerging Talent in E-commerce Solutions & Custom Web Development
 
 ---
 
