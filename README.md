@@ -67,6 +67,22 @@ Instead of a features list, here's how each system behaves when something goes w
 
 <br/>
 
+## trajectory
+
+<div align="center">
+  <img src="./assets/timeline.svg" width="100%" alt="career trajectory"/>
+</div>
+
+<br/>
+
+## where the time actually goes
+
+<div align="center">
+  <img src="./assets/orbit.svg" width="100%" alt="language orbit"/>
+</div>
+
+<br/>
+
 ## currently in progress
 
 ```
