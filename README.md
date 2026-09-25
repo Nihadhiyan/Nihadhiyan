@@ -126,10 +126,8 @@ because that's the part that actually matters.
 ## currently in progress
 
 ```
-■ Java/Spring Boot enterprise platform     — full observability + Terraform-provisioned infra
-■ hybrid offline-first ERP ecosystem       — Isar-backed sync engine, multi-tenant
-■ real-time logistics & payout engine      — Go + .NET + Kafka event pipeline
-■ sensor-based IoT telemetry               — embedded devices → cloud dashboards
+■ Venue & Stall Reservation System — multi-tenant platform, Java Spring Boot enterprise
+  backend, offline-first modern UI built with Flutter + Riverpod — under development
 ```
 
 <br/>
